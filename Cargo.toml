@@ -1,0 +1,6 @@
+[package]
+name = "practice_2"
+version = "0.1.0"
+authors = ["Frederic REY <frederic.rey.pro@gmail.com>"]
+
+[dependencies]
